@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite Demo</string>
+    <string name="customerName">Customer Name</string>
+    <string name="customerAge">Age</string>
+    <string name="activeCustomer">Active Customer</string>
+    <string name="btnAddCustomer">Add</string>
+    <string name="btnQueryCustomer">Query</string>
+</resources>
